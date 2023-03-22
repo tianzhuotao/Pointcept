@@ -28,7 +28,7 @@ Computer Vision and Pattern Recognition (**CVPR**) 2023
 - **Learning Context-aware Classifier for Semantic Segmentation** (3D Part)  
 *Zhuotao Tian, Jiequan Cui, Li Jiang, Xiaojuan Qi, Xin Lai, Yixin Chen, Shu Liu, Jiaya Jia*  
 AAAI Conference on Artificial Intelligence (**AAAI**) 2023 - Oral  
-[ SemSeg ] [ CAC ] - [ [Arxiv](https://jiaya.me/papers/Zhuotao_AAAI_2022.pdf) ] [ [Bib](https://xywu.me/research/cac/bib.txt) ] [ [2D Part](https://github.com/tianzhuotao/CAC) ] &rarr; soon
+[ SemSeg ] [ CAC ] - [ [Arxiv](https://arxiv.org/abs/2303.11633) ] [ [Bib](https://xywu.me/research/cac/bib.txt) ] [ [2D Part](https://github.com/tianzhuotao/CAC) ] &rarr; soon
 
 
 - **Point Transformer V2: Grouped Vector Attention and Partition-based Pooling**   
